@@ -1,0 +1,229 @@
+{
+  "files": {
+    "cg.dll": {
+      "distributions": [
+        "win32"
+      ],
+      "sha1": "2e7c0aead36dbe7c34fc7fa2f58cc98ef41d85e3",
+      "sha384": "5eaa9fd1ae47b5d3ad4262c7cdcc1ed63b7a110f568ca33d5a8b955092f2de423f1770a389925ce882cfc5a04a14d7a2",
+      "size": 8529888
+    },
+    "cgGL.dll": {
+      "distributions": [
+        "win32"
+      ],
+      "sha1": "924d013016c06e316ab0eeb7ebbcbc8e964f6987",
+      "sha384": "ae1b21b7d62fb78d97ddca4b1682dcfc76cfefdd108ebecd1235ec2dd7e1be247db8b02fa32c3e4ab1840aca0016bd80",
+      "size": 357856
+    },
+    "libraries/libCg.so": {
+      "distributions": [
+        "linux"
+      ],
+      "sha1": "3737ad04aba07ef70856e9fdac4b3efc05d2614b",
+      "sha384": "257c1ed944a4b576e0d3acd5c2b4d6c7b6fb3a09e746fd28b32f59372d0d5a70fd9b99633c996f4698d6472ec95af3d9",
+      "size": 20383600
+    },
+    "libraries/libCgGL.so": {
+      "distributions": [
+        "linux"
+      ],
+      "sha1": "e507f3b01500562793a585bed4ce102234d59686",
+      "sha384": "64261d1addcaec6d4cff195caf426e0d595efaf2e2ca286e179d357f50824bf137f25774ae6d81ad1aa0da2b1b2e5949",
+      "size": 539240
+    },
+    "libraries/libogg.so.0": {
+      "distributions": [
+        "linux"
+      ],
+      "sha1": "a3c890ba45477f9734198dbe7f9155a36b4c551a",
+      "sha384": "0cd9cb8ceb5f5d1214098c03e41d88c71fbae550c27458917f8916c39e5f11e7de1632bf8d3e65875c079c9f74f6ead2",
+      "size": 34624
+    },
+    "libraries/libopenal.so.1": {
+      "distributions": [
+        "linux"
+      ],
+      "sha1": "675ef49cc55ae06fe879d3326fc6ad8717e3c75f",
+      "sha384": "872e6c7ca7388b228b59416559d997b1b0fb0b788aff819f46d58b67bbb2288d81621fe9617525620aab7182e97246e0",
+      "size": 650664
+    },
+    "libraries/libsndio.so.6.1": {
+      "distributions": [
+        "linux"
+      ],
+      "sha1": "449b1dcb0c5c1b388018f3ec3f20ec9acdf8f7ca",
+      "sha384": "98b609e518e519fcf4396d7877bb0d73dc628a002ab8cdc99f719ab1ce53ba11c6d87d5d18cad2fce7631bfa919ef57e",
+      "size": 55520
+    },
+    "ods.dll": {
+      "distributions": [
+        "win32"
+      ],
+      "sha1": "a2fd4867bf11c80181d4115e23659520ab8647d6",
+      "sha384": "dc9a5bfb6df6f37673e335e8e98a1dc84cdf69019a66f8eb4219557eec11fd68c2afffc6e7f65ffccb216e6fb42636d4",
+      "size": 5229580
+    },
+    "ods.exe": {
+      "distributions": [
+        "win32"
+      ],
+      "sha1": "1aeea79eef9e08cb92039a1200c5cbd9f51cabfa",
+      "sha384": "d764d2498da0a7a3eb166923c5e948412f186939ba257a8c00dd28f832738a43c9bc330527d29a9c156929ac187b5474",
+      "size": 7446464
+    },
+    "ods_darwin": {
+      "distributions": [
+        "darwin"
+      ],
+      "sha1": "40aab0b8813500570d07cce4618ce573039f7b36",
+      "sha384": "e251b2680a5d19ab9066a8dccac679de2c6fcc9b7f578efe52e0ea88b6bb3aa9c528b3b9a912ed0dcfd6b0df660a39b8",
+      "size": 31165464
+    },
+    "ods_linux": {
+      "distributions": [
+        "linux"
+      ],
+      "sha1": "b170810c89173a198aa926ee8cb4d5eed7cbfa53",
+      "sha384": "8d04ba478dc4924979b4b3c97b16bc92fdb203ed5be652dc1ce7bf48f61be2ea65c2ff8e83024dc675a5f06b02f78156",
+      "size": 34166184
+    },
+    "resources/default/phase_10.ef": {
+      "size": 925629
+    },
+    "resources/default/phase_10.mf": {
+      "size": 536735
+    },
+    "resources/default/phase_11.ef": {
+      "size": 1929274
+    },
+    "resources/default/phase_11.mf": {
+      "size": 14401674
+    },
+    "resources/default/phase_12.ef": {
+      "size": 2113775
+    },
+    "resources/default/phase_12.mf": {
+      "size": 11472110
+    },
+    "resources/default/phase_13.ef": {
+      "size": 663335
+    },
+    "resources/default/phase_13.mf": {
+      "size": 7059962
+    },
+    "resources/default/phase_3.5.ef": {
+      "size": 37443601
+    },
+    "resources/default/phase_3.5.mf": {
+      "size": 15837266
+    },
+    "resources/default/phase_3.ef": {
+      "size": 774561
+    },
+    "resources/default/phase_3.mf": {
+      "size": 18815719
+    },
+    "resources/default/phase_4.ef": {
+      "size": 4450746
+    },
+    "resources/default/phase_4.mf": {
+      "size": 48543454
+    },
+    "resources/default/phase_5.5.ef": {
+      "size": 2903535
+    },
+    "resources/default/phase_5.5.mf": {
+      "size": 5143271
+    },
+    "resources/default/phase_5.ef": {
+      "size": 27788404
+    },
+    "resources/default/phase_5.mf": {
+      "size": 8360091
+    },
+    "resources/default/phase_6.ef": {
+      "size": 6709438
+    },
+    "resources/default/phase_6.mf": {
+      "size": 31758553
+    },
+    "resources/default/phase_7.ef": {
+      "size": 560020
+    },
+    "resources/default/phase_7.mf": {
+      "size": 5044020
+    },
+    "resources/default/phase_8.ef": {
+      "size": 6169391
+    },
+    "resources/default/phase_8.mf": {
+      "size": 32857367
+    },
+    "resources/default/phase_9.ef": {
+      "size": 4595479
+    },
+    "resources/default/phase_9.mf": {
+      "size": 21139307
+    }
+  },
+  "launcherVersions": {
+    "android": "1.3.1",
+    "darwin": "1.3.1",
+    "linux": "1.3.1",
+    "linux2": "1.3.1",
+    "win32": "1.3.1"
+  },
+  "outdatedMessage": {
+    "link": "https://opdessertstorm.com/play",
+    "message": "You are running an old version of the Operation Dessert Storm Launcher. After you press OK, you will be redirected to the launcher download page."
+  },
+  "packs": {
+    "refrosted": {
+      "resources/refrosted/phase_3.5.mf": {
+        "size": 6619810
+      },
+      "resources/refrosted/phase_3.mf": {
+        "size": 190801
+      },
+      "resources/refrosted/phase_4.mf": {
+        "size": 14293830
+      },
+      "resources/refrosted/phase_5.5.mf": {
+        "size": 2730479
+      },
+      "resources/refrosted/phase_5.mf": {
+        "size": 2283025
+      },
+      "resources/refrosted/phase_6.mf": {
+        "size": 2935765
+      },
+      "resources/refrosted/phase_7.mf": {
+        "size": 8718
+      },
+      "resources/refrosted/phase_8.mf": {
+        "size": 3765587
+      },
+      "resources/refrosted/phase_9.mf": {
+        "size": 140265
+      }
+    }
+  },
+  "removedFiles": [
+    "upx.exe",
+    "ods_darwin.save",
+    "libcrypto.1.0.0.dylib",
+    "libfreetype.6.dylib",
+    "libopenal.1.dylib",
+    "libssl.1.0.0.dylib"
+  ],
+  "vcRedist": {
+    "files": [
+      "vcruntime140.dll",
+      "msvcp140.dll"
+    ],
+    "link": "https://aka.ms/vs/15/release/vc_redist.x86.exe",
+    "promptInstall": true,
+    "version": "2017"
+  }
+}
