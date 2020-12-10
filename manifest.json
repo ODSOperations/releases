@@ -1,0 +1,501 @@
+{
+  "dynamicLibraries": true,
+  "files": {
+    "Frameworks/Cg.framework/Cg": {
+      "distributions": [
+        "darwin"
+      ],
+      "sha384": "ac72679d3d2a43a4b6e9069522f8ef83439e6eb5b43ddfb8eda2574c34e977d80a2a685bf9e5de6212753a4d12841000",
+      "size": 40936976
+    },
+    "avcodec-58.dll": {
+      "distributions": [
+        "win32"
+      ],
+      "sha384": "a5935d0fa6eb3fd9a332267ee8ae684ac1c6a49e93505a681bc69129acbcca1767755addb50c5954e1d5c173b26f9a8c",
+      "size": 33233376
+    },
+    "avformat-58.dll": {
+      "distributions": [
+        "win32"
+      ],
+      "sha384": "56426c6d080df37a64adfcefa630e792fd1b39ee7e6bfc8935ac3e45740d8e23b38f99e82c74ccda3b867ecd737346ab",
+      "size": 9767904
+    },
+    "avutil-56.dll": {
+      "distributions": [
+        "win32"
+      ],
+      "sha384": "1555860b49a509eaddcf1c062d1befe4edd548f7036e14d6400876e8eec741292452b82463ce7b643919e23483e5e2b2",
+      "size": 681440
+    },
+    "cg.dll": {
+      "distributions": [
+        "win32"
+      ],
+      "sha384": "5eaa9fd1ae47b5d3ad4262c7cdcc1ed63b7a110f568ca33d5a8b955092f2de423f1770a389925ce882cfc5a04a14d7a2",
+      "size": 8529888
+    },
+    "cgGL.dll": {
+      "distributions": [
+        "win32"
+      ],
+      "sha384": "ae1b21b7d62fb78d97ddca4b1682dcfc76cfefdd108ebecd1235ec2dd7e1be247db8b02fa32c3e4ab1840aca0016bd80",
+      "size": 357856
+    },
+    "libcrypto.dylib": {
+      "distributions": [
+        "darwin"
+      ],
+      "sha384": "fb36c654fc56d443a28c4e474deca9217b6b0bd0759702001bcfe7f113e1cde74fe5005a6b54cd54b8aa9024ec6f0681",
+      "size": 2190532
+    },
+    "libraries/libCg.so": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "257c1ed944a4b576e0d3acd5c2b4d6c7b6fb3a09e746fd28b32f59372d0d5a70fd9b99633c996f4698d6472ec95af3d9",
+      "size": 20383600
+    },
+    "libraries/libCgGL.so": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "64261d1addcaec6d4cff195caf426e0d595efaf2e2ca286e179d357f50824bf137f25774ae6d81ad1aa0da2b1b2e5949",
+      "size": 539240
+    },
+    "libraries/libGLX.so.0": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "7b53399063661449cd2fa26dffa78b8357f678d05626f07afed4615889a338269cfe3329ccd7852c709f6f2e1bcfeddb",
+      "size": 76336
+    },
+    "libraries/libGLdispatch.so.0": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "316df39b7be2192d431aebeb27c28ea2de9c1962fc877c6a5e612edc2ece7e805a43f7c418bb5c48a2da86cccbfbe53d",
+      "size": 637384
+    },
+    "libraries/libX11.so.6": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "950854bd1a88d05238fd9ce3b8ca71bcf49fdc03a3f8a96b5be25d906f95a8711dcbe65f70f796c4f6cfc915c20d236d",
+      "size": 1314312
+    },
+    "libraries/libXau.so.6": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "2df2114a748b0ed0db9764daf1eb4f18f1c00f11af0a46673da479a60a9734b1bcd58978aa335e0058c5dce3070c74f4",
+      "size": 14528
+    },
+    "libraries/libXcursor.so.1": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "c845e87c39b3ac5fc9e306b6ca200bc1fd79f5562c23eb5e6e4a3953cb05494b6ca1f1475a312338f7a6a70d59202c39",
+      "size": 47768
+    },
+    "libraries/libXdmcp.so.6": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "27cb99646e231ab47107f8cbbc53c515cea04b1cbeb30d9d3ed9660119a5c429a3e104556c7fd558711022694b03d640",
+      "size": 22728
+    },
+    "libraries/libXext.so.6": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "c11af66ca281d5dbe7bce538775ca0cf56462d8345c975fac81a568b7e5c21876ab85d2509116932fcbf30b8f794be6f",
+      "size": 73424
+    },
+    "libraries/libXfixes.so.3": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "4f42a01f7740168148c76fb34fa7fbf0701ea073a0bb767c5fceab4984906984d19c894cb2711f51bb2ba04abf4cc518",
+      "size": 22656
+    },
+    "libraries/libXrandr.so.2": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "9382db2e6330a15fdcac110047e34c5c87f7b92927962c2e7a4a5e1abc9e052e40444751675aee61da528f66e0710b1d",
+      "size": 43384
+    },
+    "libraries/libXrender.so.1": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "0b933c00ef920453b9e9f77759a22ba254b9abd3b7f9638cf3c991cdf3f43e7db69044d4ab144ecb91d3af223637abe3",
+      "size": 39480
+    },
+    "libraries/libXxf86dga.so.1": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "9c5b6d4c652d5c7d67b3551b36cf5db54e47d08ea80bca292f5d10d1d9a76fe2cf9d11c740ec917434687bf3ace47184",
+      "size": 27088
+    },
+    "libraries/libasound.so.2": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "c30d9cdaad7018a50ecb3846a7354b16bc0c1f9908092e03cb9c7b1c68df66eff2c283733bc5fff1de9fd8bfd45f3aeb",
+      "size": 1046824
+    },
+    "libraries/libatomic.so.1": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "2ac8bafb2396a4e93c9c108adc01149cb9f34b6d745166d0bdd6155772cae496fc2dfa25df117f7c4eb4d6996574d54d",
+      "size": 30800
+    },
+    "libraries/libbsd.so.0": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "63e9cfe925a41b82611b094a7ba8fb40fa6bb960118f3f5fb3c1c8b8e96796f059bd7a0048d07c0e68cf5f2bfa0a541f",
+      "size": 96568
+    },
+    "libraries/libccd.so.2": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "2810bdce7a5bade79a77467d482165c2acd61f26161ab6758a7f73d2122ae7ed31898c761a8853287411408d163ff4e7",
+      "size": 43928
+    },
+    "libraries/libcrypto.so.1.1": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "15c5dd635d4df356f5426781ff64ec357a92bad940f63bfd022a1d24818e973b678634355c6367b4eaa19ae9f0a1254c",
+      "size": 3040096
+    },
+    "libraries/libfreetype.so.6": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "b022358addd19d0b8d3b4629be5e86a09c6d864cbb5785468d41fe7db56ad06a13733cbaf4c426887d74779aa538a548",
+      "size": 776104
+    },
+    "libraries/libgcc_s.so.1": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "f235e3e9c19be0b14edf5a6832c3326c88fc1ded8509d6422f71e6728f177af6091e98442e77e4bef7f155f38e789746",
+      "size": 100736
+    },
+    "libraries/libglib-2.0.so.0": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "4bc2bc5ec8751c4a94282f44fa9ed69f5afd92106862978a38067b075cffb8902ef9b264067c8c1c4897b1fae0faaa1c",
+      "size": 1191376
+    },
+    "libraries/libgraphite2.so.3": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "0ffd6e52d485987d3369ec52cea5df8a465b5e7eb81c455c5cb461371b1e40e1054267357d86c955fac9312840140d59",
+      "size": 174264
+    },
+    "libraries/libharfbuzz.so.0": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "2f3f0669c4a92251f6f92d8b929d7907746451801ce4235514de8a92a8b9a7a45c8c3ec639eb6d233043e92a12d421e0",
+      "size": 1062656
+    },
+    "libraries/libjpeg.so.62": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "d3816e0d30f73821904a72202b752b6e7ba1030d0d631f3f0caab13640308ab70d0141f1328961362cfd3b3672c0a91e",
+      "size": 428032
+    },
+    "libraries/libode.so.8": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "470f23c83b18ba3fa550258a0bdee3933b67015cc305966f004d04541a74994566788ef6e5b9cfb2c850e1e12083f3b5",
+      "size": 1202184
+    },
+    "libraries/libogg.so.0": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "6fcadb9d7cbfde4003ba7b778106ef2ffce35008c428145b9c6589f35d27fddc8ac1b71122a402f0d1aef61395c243c8",
+      "size": 34688
+    },
+    "libraries/libopenal.so.1": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "6b4394ff74353069d119b68226d26c1801c80e9ec0fe522ebcbb726e8e88429ebd1f06322e840ba047c3ebe96ed7ef13",
+      "size": 925176
+    },
+    "libraries/libpcre.so.3": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "105bb3b70d993c4456efcb08f76a6db9453741081847e2594fc021c0e7f954b90fa289d3342f520acd0b702fdcd84575",
+      "size": 468944
+    },
+    "libraries/libpng16.so.16": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "f83f253dc9b33a3501b2abcda16fad1ae00c397f861490906fa2fdd6b75309116d53f9e096800a26f0753d5744d357c6",
+      "size": 227248
+    },
+    "libraries/librt.so.1": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "d6f731101caa81b9800533a39b9254c00eb4dd10e195ce96c113257189f954355ebffc72b05025db394196ef63543e24",
+      "size": 39912
+    },
+    "libraries/libsndio.so.7.0": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "1d0864e285e03486feb9ce507e01e1b1eb4fc448f90f63985d206e8c639dd232f01bfb2d520259a2cb48ecfe5f843a7b",
+      "size": 59616
+    },
+    "libraries/libssl.so.1.1": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "ccff356dc33f49c3bada8f4bff0de145f6b6cfe91df61062fc08e78377b17019f056a301286dfe7af292e4bc53cb457c",
+      "size": 593696
+    },
+    "libraries/libstdc++.so.6": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "b44db8e69d83f9d59260c92f10b51e838d1120efcffc1675488483e1ae295ae4b79122770c9de0b327c1ebee761be4a0",
+      "size": 1919784
+    },
+    "libraries/libutil.so.1": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "5ff18be74030d37cc3ac834c199bcad0bcb78d10932c0bf1b248b328e8c5934356e06126012c2f69f5c8840ac27954c1",
+      "size": 14720
+    },
+    "libraries/libvorbis.so.0": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "6ea36429f084039f56c77f1250fe92cf99d55429f8bcacb4603b342fffc7ab81598f6d2d225baa9ed115a65783c28f94",
+      "size": 182184
+    },
+    "libraries/libvorbisfile.so.3": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "3abe019f77352077a9a6370b2275bf9beb565d7b2389cf4d829bde81ff43d8269e80179a8b2498250ea2dd2d79cc681c",
+      "size": 38752
+    },
+    "libraries/libxcb.so.1": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "fc9aacfc97571ea2b09e18bef70a6354bd2a9f3500cc3d5ed619b1f1c6f4adb3ab0630a6456fb38d6eeb4ee210efa060",
+      "size": 166824
+    },
+    "libssl.dylib": {
+      "distributions": [
+        "darwin"
+      ],
+      "sha384": "509c4782b9150c198ba5b9386cda35a43477396ba887c1885911f6a84d837ef8d2119f011a21c1c98b0a6f9b047c0aad",
+      "size": 390532
+    },
+    "ods.dll": {
+<<<<<<< HEAD
+      "sha384": "9e7c9e6cc6e27a93a5fa14c2a06c8975af2699b799e2f4a7a46a69369954aca4f5b4ad485396c4b804b8e8f24769730d",
+      "size": 7087875
+=======
+      "sha384": "3fd0b888a7e584bbce1e197705557bace68d839e9a2021111ec899c5e58af9140fc7d12de8fdd9ebaaa9bd4dabfc6aea",
+      "size": 7088561
+>>>>>>> 0155e92056fee478081e767e3b5ca770266f4f21
+    },
+    "ods.exe": {
+      "distributions": [
+        "win32"
+      ],
+      "sha384": "e4c347020d000de1a741b44df1fc565d289d0cbf23669c8fe9f2e6178135c90c226eaa3822adf78a3fa5389e9d424e02",
+      "size": 7279560
+    },
+    "ods_darwin": {
+      "distributions": [
+        "darwin"
+      ],
+      "sha384": "415d577ae23f5257a08dc0c898a135596b80331b9e9c239dc7b10edcd657f8d3c7bf552dc3ca0ec5e80b8827a46e2f3c",
+      "size": 30993036
+    },
+    "ods_linux": {
+      "distributions": [
+        "linux"
+      ],
+      "sha384": "fe0fc2cd23582191f20e87581593da38e090fcad6201d490cb4577ca0ff107028a641c65f3a0411c61e0d28c1712b8ca",
+      "size": 29970960
+    },
+    "resources/default/phase_10.ef": {
+      "size": 925722
+    },
+    "resources/default/phase_10.mf": {
+      "size": 536735
+    },
+    "resources/default/phase_11.ef": {
+      "size": 1929367
+    },
+    "resources/default/phase_11.mf": {
+      "size": 14401674
+    },
+    "resources/default/phase_12.ef": {
+      "size": 2113868
+    },
+    "resources/default/phase_12.mf": {
+      "size": 11472110
+    },
+    "resources/default/phase_13.ef": {
+      "size": 663428
+    },
+    "resources/default/phase_13.mf": {
+      "size": 7059962
+    },
+    "resources/default/phase_3.5.ef": {
+      "size": 37443694
+    },
+    "resources/default/phase_3.5.mf": {
+      "size": 15676891
+    },
+    "resources/default/phase_3.ef": {
+      "size": 774654
+    },
+    "resources/default/phase_3.mf": {
+      "size": 19078317
+    },
+    "resources/default/phase_4.ef": {
+      "size": 4556929
+    },
+    "resources/default/phase_4.mf": {
+      "size": 50771060
+    },
+    "resources/default/phase_5.5.ef": {
+      "size": 2903628
+    },
+    "resources/default/phase_5.5.mf": {
+      "size": 5143271
+    },
+    "resources/default/phase_5.ef": {
+      "size": 27788337
+    },
+    "resources/default/phase_5.mf": {
+      "size": 8360091
+    },
+    "resources/default/phase_6.ef": {
+      "size": 6709611
+    },
+    "resources/default/phase_6.mf": {
+      "size": 31758553
+    },
+    "resources/default/phase_7.ef": {
+      "size": 560113
+    },
+    "resources/default/phase_7.mf": {
+      "size": 5044020
+    },
+    "resources/default/phase_8.ef": {
+      "size": 6169692
+    },
+    "resources/default/phase_8.mf": {
+      "size": 32857367
+    },
+    "resources/default/phase_9.ef": {
+      "size": 4595572
+    },
+    "resources/default/phase_9.mf": {
+      "size": 21139307
+    },
+    "swresample-3.dll": {
+      "distributions": [
+        "win32"
+      ],
+      "sha384": "d5213cbe57354feeecb29571498790b79cacfebce11379e0ad6e82fff6f8ab36a7657ae5325dca8e2bbf9a370f9f9e6f",
+      "size": 319456
+    },
+    "swscale-5.dll": {
+      "distributions": [
+        "win32"
+      ],
+      "sha384": "9e1ded426791a5a1ac967f9e6c9026c5967701f059112fbfd2c4d9a8e4586bc40a2805643c7f92b4f7b46b809345ffe5",
+      "size": 522208
+    }
+  },
+  "launcherVersions": {
+    "android": "1.2.1",
+    "darwin": "1.3.1",
+    "linux": "1.3.0",
+    "linux2": "1.3.0",
+    "win32": "1.3.1"
+  },
+  "outdatedMessage": {
+    "link": "https://opdessertstorm.com/play",
+    "message": "You are running an old version of the Operation Dessert Storm Launcher. After you press OK, you will be redirected to the launcher download page."
+  },
+  "packs": {
+    "refrosted": {
+      "resources/refrosted/phase_3.5.mf": {
+        "size": 5864961
+      },
+      "resources/refrosted/phase_3.mf": {
+        "size": 190801
+      },
+      "resources/refrosted/phase_4.mf": {
+        "size": 14293830
+      },
+      "resources/refrosted/phase_5.5.mf": {
+        "size": 2730479
+      },
+      "resources/refrosted/phase_5.mf": {
+        "size": 2283025
+      },
+      "resources/refrosted/phase_6.mf": {
+        "size": 2935765
+      },
+      "resources/refrosted/phase_7.mf": {
+        "size": 8718
+      },
+      "resources/refrosted/phase_8.mf": {
+        "size": 3765587
+      },
+      "resources/refrosted/phase_9.mf": {
+        "size": 140265
+      }
+    }
+  },
+  "removedFiles": [
+    "upx.exe",
+    "ods_darwin.save",
+    "libcrypto.1.0.0.dylib",
+    "libfreetype.6.dylib",
+    "libopenal.1.dylib",
+    "libssl.1.0.0.dylib"
+  ],
+  "vcRedist": {
+    "files": [
+      "vcruntime140.dll",
+      "msvcp140.dll"
+    ],
+    "link": "https://aka.ms/vs/15/release/vc_redist.x86.exe",
+    "promptInstall": true,
+    "version": "2017"
+  }
+}
