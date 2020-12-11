@@ -317,13 +317,8 @@
       "size": 390532
     },
     "ods.dll": {
-<<<<<<< HEAD
-      "sha384": "9e7c9e6cc6e27a93a5fa14c2a06c8975af2699b799e2f4a7a46a69369954aca4f5b4ad485396c4b804b8e8f24769730d",
-      "size": 7087875
-=======
-      "sha384": "3fd0b888a7e584bbce1e197705557bace68d839e9a2021111ec899c5e58af9140fc7d12de8fdd9ebaaa9bd4dabfc6aea",
-      "size": 7088561
->>>>>>> 0155e92056fee478081e767e3b5ca770266f4f21
+      "sha384": "1e5f0794b2f55b7b802a97d3dfa497d884c6a61bf81633e7471a24d67d627a29c32a1971229baf544b90e81ecd581489",
+      "size": 7088501
     },
     "ods.exe": {
       "distributions": [
