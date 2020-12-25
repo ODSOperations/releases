@@ -317,8 +317,8 @@
       "size": 390532
     },
     "ods.dll": {
-      "sha384": "ee8216010d0f8fdb767dd7c044cad47c0c9c90de33044198a21c00e1dafd8762aff174f44aecac7fcbd1f0d910c5751f",
-      "size": 7088572
+      "sha384": "4aa2adad0fb5d1bf6adb4ee28727d7ed8eb75dfdc014f7932e75b0dcb6b969ab8a16ce715912c49de5bac08b821d9ea2",
+      "size": 7088742
     },
     "ods.exe": {
       "distributions": [
@@ -378,10 +378,10 @@
       "size": 18994787
     },
     "resources/default/phase_4.ef": {
-      "size": 4556929
+      "size": 4595949
     },
     "resources/default/phase_4.mf": {
-      "size": 50771060
+      "size": 51723649
     },
     "resources/default/phase_5.5.ef": {
       "size": 2903628
