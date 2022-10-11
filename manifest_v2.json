@@ -1,0 +1,124 @@
+{
+  "dynamicLibraries": false,
+  "files": {
+    "ods.dll": {
+      "sha384": "51553c64c8d28d1bc7b978e804869ffdab4e4b9ded668f2224d4dfde7ff1a8759068e10c20b22c8b63e5d88f1c589f04",
+      "size": 13174682
+    },
+    "ods.dll.19": {
+      "sha384": "8ac094d44ad1604fd2d5fd598ad2792c2eb611d8ca5ab77484163ad7a4b00251283b2a544da893f5c6d66a31295245d7",
+      "size": 6134527
+    },
+    "ods.dll.zst": {
+      "sha384": "6827919e5e7c85af0c1be8bf3459f8c46b5e73095d8fe89266a122b39ea5082437360288cd7a84ccba33af0695b47827",
+      "size": 6134531
+    },
+    "resources/default/phase_10.ef": {
+      "size": 926887
+    },
+    "resources/default/phase_10.mf": {
+      "size": 6023290
+    },
+    "resources/default/phase_11.ef": {
+      "size": 1930356
+    },
+    "resources/default/phase_11.mf": {
+      "size": 10526219
+    },
+    "resources/default/phase_12.ef": {
+      "size": 2114569
+    },
+    "resources/default/phase_12.mf": {
+      "size": 18293234
+    },
+    "resources/default/phase_13.ef": {
+      "size": 664177
+    },
+    "resources/default/phase_13.mf": {
+      "size": 8524210
+    },
+    "resources/default/phase_3.5.ef": {
+      "size": 37463923
+    },
+    "resources/default/phase_3.5.mf": {
+      "size": 15385929
+    },
+    "resources/default/phase_3.ef": {
+      "size": 935361
+    },
+    "resources/default/phase_3.mf": {
+      "size": 28615010
+    },
+    "resources/default/phase_4.ef": {
+      "size": 4820253
+    },
+    "resources/default/phase_4.mf": {
+      "size": 44959940
+    },
+    "resources/default/phase_5.5.ef": {
+      "size": 2906969
+    },
+    "resources/default/phase_5.5.mf": {
+      "size": 5143332
+    },
+    "resources/default/phase_5.ef": {
+      "size": 27410608
+    },
+    "resources/default/phase_5.mf": {
+      "size": 8368085
+    },
+    "resources/default/phase_6.ef": {
+      "size": 5986976
+    },
+    "resources/default/phase_6.mf": {
+      "size": 26981532
+    },
+    "resources/default/phase_7.ef": {
+      "size": 1906365
+    },
+    "resources/default/phase_7.mf": {
+      "size": 2637497
+    },
+    "resources/default/phase_8.ef": {
+      "size": 5273737
+    },
+    "resources/default/phase_8.mf": {
+      "size": 34499045
+    },
+    "resources/default/phase_9.ef": {
+      "size": 4596985
+    },
+    "resources/default/phase_9.mf": {
+      "size": 10404919
+    }
+  },
+  "launcherVersions": {
+    "android": "1.2.1",
+    "darwin": "1.3.1",
+    "linux": "1.3.0",
+    "linux2": "1.3.0",
+    "win32": "1.3.1"
+  },
+  "outdatedMessage": {
+    "link": "https://opdessertstorm.com/play",
+    "message": "You are running an old version of the Operation Dessert Storm Launcher. After you press OK, you will be redirected to the launcher download page."
+  },
+  "packs": {},
+  "removedFiles": [
+    "upx.exe",
+    "ods_darwin.save",
+    "libcrypto.1.0.0.dylib",
+    "libfreetype.6.dylib",
+    "libopenal.1.dylib",
+    "libssl.1.0.0.dylib"
+  ],
+  "vcRedist": {
+    "files": [
+      "vcruntime140.dll",
+      "msvcp140.dll"
+    ],
+    "link": "https://aka.ms/vs/15/release/vc_redist.x86.exe",
+    "promptInstall": true,
+    "version": "2017"
+  }
+}
