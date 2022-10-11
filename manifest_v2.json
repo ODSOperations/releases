@@ -5,14 +5,6 @@
       "sha384": "4be15e6f6de38d7a2a5363cf0712d546cb5d435cc33ecd4506e86a5b3bfd72b761a93aeea6af65a5d099019ebacc7a25",
       "size": 13184285
     },
-    "ods.dll.19": {
-      "sha384": "8ac094d44ad1604fd2d5fd598ad2792c2eb611d8ca5ab77484163ad7a4b00251283b2a544da893f5c6d66a31295245d7",
-      "size": 6134527
-    },
-    "ods.dll.zst": {
-      "sha384": "6827919e5e7c85af0c1be8bf3459f8c46b5e73095d8fe89266a122b39ea5082437360288cd7a84ccba33af0695b47827",
-      "size": 6134531
-    },
     "resources/default/phase_10.ef": {
       "size": 926887
     },
