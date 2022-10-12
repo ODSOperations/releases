@@ -2,8 +2,8 @@
   "dynamicLibraries": false,
   "files": {
     "ods.dll": {
-      "sha384": "31afd02bc2209ad305d31199627ad0f3c5ea8ecc404a14d097a9aa31b99d4ddbada3b31f64575e466d8ddb54bb35dcc5",
-      "size": 13184472
+      "sha384": "4909246cf22ae1a392e1386f60e54524f6ff669d52876bbcbadb9dd0d17b8d630cd73d3ec0a0a48aaf4060560db41221",
+      "size": 13184802
     },
     "resources/default/phase_10.ef": {
       "size": 926887
