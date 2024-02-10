@@ -1,0 +1,144 @@
+{
+  "dynamicLibraries": false,
+  "files": {
+    "ods.dll": {
+      "shake256": "5e8e492be8bd1cfe08298583804c1d4156d5de87dbc3a93c333240d0696005ed",
+      "size": 8008805
+    },
+    "ods.exe": {
+      "distributions": [
+        "win32"
+      ],
+      "executable": true,
+      "shake256": "ef261cb0dc5451a37c52dce1df853c0baefcfe86147043f50b45c4f5a68890c6",
+      "size": 39093552
+    },
+    "ods_darwin": {
+      "distributions": [
+        "darwin"
+      ],
+      "executable": true,
+      "shake256": "519e294d908dcb35eeb3cb15b3a5968715286e72dce20a3d63ae942d6aec53cd",
+      "size": 36525900
+    },
+    "ods_linux": {
+      "distributions": [
+        "linux"
+      ],
+      "executable": true,
+      "shake256": "48a82970cd20c849cca362e6b0e02c60761121de2c2adf33afc8a42f3af1161d",
+      "size": 41665512
+    },
+    "resources/default/phase_10.mf": {
+      "size": 6945270
+    },
+    "resources/default/phase_11.mf": {
+      "size": 12427000
+    },
+    "resources/default/phase_12.mf": {
+      "size": 6709512
+    },
+    "resources/default/phase_13.mf": {
+      "size": 9184649
+    },
+    "resources/default/phase_3.5.mf": {
+      "size": 55049419
+    },
+    "resources/default/phase_3.mf": {
+      "size": 30986434
+    },
+    "resources/default/phase_4.mf": {
+      "size": 50786193
+    },
+    "resources/default/phase_5.5.mf": {
+      "size": 8182018
+    },
+    "resources/default/phase_5.mf": {
+      "size": 35766492
+    },
+    "resources/default/phase_6.mf": {
+      "size": 32953595
+    },
+    "resources/default/phase_7.mf": {
+      "size": 5410217
+    },
+    "resources/default/phase_8.mf": {
+      "size": 40052323
+    },
+    "resources/default/phase_9.mf": {
+      "size": 14996006
+    },
+    "resources/refrosted/phase_3.5.mf": {
+      "pack": "refrosted",
+      "size": 5864938
+    },
+    "resources/refrosted/phase_3.mf": {
+      "pack": "refrosted",
+      "size": 190778
+    },
+    "resources/refrosted/phase_4.mf": {
+      "pack": "refrosted",
+      "size": 14293807
+    },
+    "resources/refrosted/phase_5.5.mf": {
+      "pack": "refrosted",
+      "size": 2730456
+    },
+    "resources/refrosted/phase_5.mf": {
+      "pack": "refrosted",
+      "size": 2283002
+    },
+    "resources/refrosted/phase_6.mf": {
+      "pack": "refrosted",
+      "size": 2935742
+    },
+    "resources/refrosted/phase_7.mf": {
+      "pack": "refrosted",
+      "size": 8695
+    },
+    "resources/refrosted/phase_8.mf": {
+      "pack": "refrosted",
+      "size": 3765564
+    },
+    "resources/refrosted/phase_9.mf": {
+      "pack": "refrosted",
+      "size": 140242
+    }
+  },
+  "launcherVersions": {
+    "android": "1.3.0",
+    "darwin": "1.3.1",
+    "linux": "1.3.0",
+    "linux2": "1.3.0",
+    "win32": "1.3.1"
+  },
+  "outdatedMessage": {
+    "link": "https://opdessertstorm.com/play",
+    "message": "You are running an old version of the Operation Dessert Storm Launcher. After you press OK, you will be redirected to the launcher download page."
+  },
+  "packs": {},
+  "removedFiles": [
+    "upx.exe",
+    "ods_darwin.save",
+    "libcrypto.1.0.0.dylib",
+    "libfreetype.6.dylib",
+    "libopenal.1.dylib",
+    "libssl.1.0.0.dylib",
+    "Frameworks/Cg.framework/Cg",
+    "avcodec-58.dll",
+    "avformat-58.dll",
+    "avutil-56.dll",
+    "cg.dll",
+    "cgGL.dll",
+    "libcrypto.dylib",
+    "libssl.dylib",
+    "swresample-3.dll",
+    "swscale-5.dll"
+  ],
+  "vcRedist": {
+    "files": [],
+    "link": "",
+    "promptInstall": false,
+    "version": ""
+  }
+}
