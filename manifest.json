@@ -1,0 +1,147 @@
+{
+  "dynamicLibraries": false,
+  "files": {
+    "ods.dll": {
+      "blake3": "e8ad7ff2bdda6a6ed540e748d87008509f231ba439165cded729495dc6a166d9",
+      "size": 8006047
+    },
+    "resources/default/phase_10.mf": {
+      "blake3": "992bb04df0390df26a73b5a1ee73d82fc7f95dfd50352ccf2a782b0aebebb09e",
+      "reverify": false,
+      "size": 6945270
+    },
+    "resources/default/phase_11.mf": {
+      "blake3": "341377a7735c14d510bf72fbb9b943dabd955601a7c09db2d15ad82f9bd52575",
+      "reverify": false,
+      "size": 12427000
+    },
+    "resources/default/phase_12.mf": {
+      "blake3": "516077853dfeca6e578ced3f3e6b931877d437c13a659056c4b19dd09e05b1c3",
+      "reverify": false,
+      "size": 6709512
+    },
+    "resources/default/phase_13.mf": {
+      "blake3": "5009c69b2d3dd082d12b28c10e01797cf122f39adff09240f66a3fba2096d052",
+      "reverify": false,
+      "size": 9184649
+    },
+    "resources/default/phase_3.5.mf": {
+      "blake3": "1048e4d2fc98982ed1c5c40d43d1ffde925cad5137c04a5f6c94b5fd57d0ced8",
+      "reverify": false,
+      "size": 55049419
+    },
+    "resources/default/phase_3.mf": {
+      "blake3": "6508b4b2c621c814c85c69cc3a8032e8fb08558fc3f83189e88ed63790acc8ba",
+      "reverify": false,
+      "size": 30986434
+    },
+    "resources/default/phase_4.mf": {
+      "blake3": "e8c0e85058bcbc7d2d95d5f20f4400826eff47968ac30891b478d145ad373144",
+      "reverify": false,
+      "size": 50786193
+    },
+    "resources/default/phase_5.5.mf": {
+      "blake3": "f0fb08f044d12bc77b6558f7f11b43fe987d37ce01af74c64a196b58d7ee6d87",
+      "reverify": false,
+      "size": 8182018
+    },
+    "resources/default/phase_5.mf": {
+      "blake3": "df4eb03d7f61f7b4a34cb51ca82db3ceee93556d50df496986bad4f5c5898398",
+      "reverify": false,
+      "size": 35766492
+    },
+    "resources/default/phase_6.mf": {
+      "blake3": "3ea94f747dca432d4f4d4149f888dcd708c6e16828a2d3e8f173462ec35a5974",
+      "reverify": false,
+      "size": 32953595
+    },
+    "resources/default/phase_7.mf": {
+      "blake3": "33e217ebe664773c3c79fa2b62e27226743c64fb47c4061ca2da66e9b152cb42",
+      "reverify": false,
+      "size": 5410217
+    },
+    "resources/default/phase_8.mf": {
+      "blake3": "9c3cb6b620fcb4916f5db3aa871c3126c0e131204cae9447d6d1ad1917a42068",
+      "reverify": false,
+      "size": 40052323
+    },
+    "resources/default/phase_9.mf": {
+      "blake3": "8289fd790347517998a75c2eaeead163a452c30ac5b3df444c6ca56b8a28f3d4",
+      "reverify": false,
+      "size": 14996006
+    },
+    "resources/refrosted/phase_3.5.mf": {
+      "blake3": "a3db68e116c478b8ebb6bb9e5aed9011d2f316924478a3007cafec3eb7abcff2",
+      "pack": "refrosted",
+      "reverify": false,
+      "size": 5864938
+    },
+    "resources/refrosted/phase_3.mf": {
+      "blake3": "baff75ae3692ee7175d148d129be7a01ce1ba0d5ad692c39d08dca792d56502d",
+      "pack": "refrosted",
+      "reverify": false,
+      "size": 190778
+    },
+    "resources/refrosted/phase_4.mf": {
+      "blake3": "2716aa2806ac0219e840d30d59af9e4410b4d2477d5e53ac26064e551cf161cd",
+      "pack": "refrosted",
+      "reverify": false,
+      "size": 14293807
+    },
+    "resources/refrosted/phase_5.5.mf": {
+      "blake3": "22700eb6754c12d8cd646515336da76c65359b45c738ccffd1f6ed88e5a47325",
+      "pack": "refrosted",
+      "reverify": false,
+      "size": 2730456
+    },
+    "resources/refrosted/phase_5.mf": {
+      "blake3": "e5c333f162efcacfa6b0207c7e6d5fc334612b50c517ebc482cab827078dc480",
+      "pack": "refrosted",
+      "reverify": false,
+      "size": 2283002
+    },
+    "resources/refrosted/phase_6.mf": {
+      "blake3": "aef520b8ed940bd99ea3e46cf3c143ccc70e9d588709e1548cc8b21ad0179faa",
+      "pack": "refrosted",
+      "reverify": false,
+      "size": 2935742
+    },
+    "resources/refrosted/phase_7.mf": {
+      "blake3": "20b8d76ea9ac3bf8aa661df605c04a55228ade862dc81e1479f1a2f93f263a42",
+      "pack": "refrosted",
+      "reverify": false,
+      "size": 8695
+    },
+    "resources/refrosted/phase_8.mf": {
+      "blake3": "10b654a2b201cff63da29039ede358c0082d983829a656d9c1612520ffd085d8",
+      "pack": "refrosted",
+      "reverify": false,
+      "size": 3765564
+    },
+    "resources/refrosted/phase_9.mf": {
+      "blake3": "8bfcd4359a61d87887872ac68c40ae79a51865d61fe18ed2d24c11fa1fa149bc",
+      "pack": "refrosted",
+      "reverify": false,
+      "size": 140242
+    }
+  },
+  "launcherVersions": {
+    "android": "1.3.0",
+    "darwin": "1.3.1",
+    "linux": "1.3.0",
+    "linux2": "1.3.0",
+    "win32": "1.3.1"
+  },
+  "outdatedMessage": {
+    "link": "https://opdessertstorm.com/play",
+    "message": "You are running an old version of the Operation Dessert Storm Launcher. After you press OK, you will be redirected to the launcher download page."
+  },
+  "packs": {},
+  "removedFiles": [],
+  "vcRedist": {
+    "files": [],
+    "link": "",
+    "promptInstall": false,
+    "version": ""
+  }
+}
