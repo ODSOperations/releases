@@ -1,6 +1,24 @@
 {
   "dynamicLibraries": false,
   "files": {
+    "ods.exe": {
+      "blake3": "8265b2b3e27e55be70ea4fe908dd3dd4249c87deec8a4390d95eeb8fb184f431",
+      "size": 39093552,
+      "distributions": ["win32"],
+      "executable": true
+    },
+    "ods_darwin": {
+      "blake3": "30f7cb53b17b0630f35edb07d25d1a728d3fb8b1ed3f9117157df4b27f88f5f2",
+      "size": 36313056,
+      "distributions": ["darwin"],
+      "executable": true
+    },
+    "ods_linux": {
+      "blake3": "2acd3045230f006ce59ce11a25ad579b2ca5bc96a7f209f767434587856764c3",
+      "size": 41831280,
+      "distributions": ["linux", "linux2"],
+      "executable": true
+    },
     "ods.dll": {
       "blake3": "e8ad7ff2bdda6a6ed540e748d87008509f231ba439165cded729495dc6a166d9",
       "size": 8006047
